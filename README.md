@@ -10,6 +10,13 @@
 npm i @dmytromykhailiuk/react-di-module
 ```
 
+**Interesting packages**
+
+- [Dependency Injection Container](https://www.npmjs.com/package/@dmytromykhailiuk/dependency-injection-container)
+- [React Dependency Injection Module](https://www.npmjs.com/package/@dmytromykhailiuk/react-di-module)
+- [RxJS React Redux Effects](https://www.npmjs.com/package/@dmytromykhailiuk/rx-react-redux-effect)
+- [Condition Flow Engine](https://www.npmjs.com/package/@dmytromykhailiuk/condition-flow-engine)
+
 ## Example of usage
 
 ```typescript
