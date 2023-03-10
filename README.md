@@ -21,7 +21,7 @@ npm i @dmytromykhailiuk/react-di-module
 
 ```typescript
 
-import { Module, useInject, useObservable } from 'condition-flow-engine-with-di';
+import { Module, useInject, useObservable } from '@dmytromykhailiuk/react-di-module';
 
 const providers = [
   // ...
